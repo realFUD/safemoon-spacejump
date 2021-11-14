@@ -1,4 +1,4 @@
-var audio = new Audio("./assets/sound/ride.mp3");
+var audio = new Audio("./../assets/sound/ride.mp3");
 var audioIsPlaying = false;
 
 function vibesToggle() {
